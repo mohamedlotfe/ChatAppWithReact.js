@@ -1,5 +1,8 @@
 
 ## Build a chat app with React.js and Chatkit
+![Alt Text](https://github.com/mohamedlotfe/ChatAppWithReact.js/blob/master/20180824_004206.gif)
+
+
 
 ## How to use!
 - Clone or Download repo
